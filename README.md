@@ -1,5 +1,4 @@
 
-```markdown
 # Explainable Bearing Fault Diagnosis with Wavelet Features and Random Forests
 
 This project is a complete case study for predictive maintenance (PdM) using the Case Western Reserve University (CWRU) bearing dataset. It demonstrates a practical and highly explainable machine learning pipeline for detecting and classifying faults in rolling-element bearings.
@@ -62,4 +61,4 @@ bearing-fault-diagnosis/
       jupyter notebook
       ```
     * Open `notebooks/fdl-project.ipynb` and run the cells.
-````
+
