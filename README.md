@@ -1,0 +1,1 @@
+# Machine-Fault-Bearing-DIagnosis-Using-wavelets
